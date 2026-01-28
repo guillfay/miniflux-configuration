@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Miniflux</title>
+        <dateCreated>Wed, 28 Jan 2026 21:38:04 UTC</dateCreated>
+    </head>
+    <body>
+        <outline text="AI">
+            <outline title="Artificial Intelligence News" text="Artificial Intelligence News" xmlUrl="https://www.artificialintelligence-news.com/feed/rss/" htmlUrl="https://www.artificialintelligence-news.com/" type="rss"></outline>
+            <outline title="MIT News - Computer Science and Artificial Intelligence Laboratory " text="MIT News - Computer Science and Artificial Intelligence Laboratory " xmlUrl="http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml" htmlUrl="https://www.csail.mit.edu/" type="rss"></outline>
+            <outline title="MIT Technology Review" text="MIT Technology Review" xmlUrl="https://www.technologyreview.com/feed/" htmlUrl="https://www.technologyreview.com/" type="rss"></outline>
+            <outline title="OpenAI News" text="OpenAI News" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news/" type="rss"></outline>
+            <outline title="The Hacker News" text="The Hacker News" xmlUrl="https://feeds.feedburner.com/TheHackersNews" htmlUrl="https://thehackernews.com" description="Most trusted, widely-read independent cybersecurity news source for everyone; supported by hackers and IT professionals — Send TIPs to admin@thehackernews.com" type="rss"></outline>
+        </outline>
+        <outline text="Actualites">
+            <outline title="Franceinfo - Les Titres" text="Franceinfo - Les Titres" xmlUrl="https://www.franceinfo.fr/titres.rss" htmlUrl="https://www.franceinfo.fr/titres/" type="rss"></outline>
+            <outline title="Le Monde.fr - Actualités et Infos en France et dans le monde" text="Le Monde.fr - Actualités et Infos en France et dans le monde" xmlUrl="https://www.lemonde.fr/rss/une.xml" htmlUrl="https://www.lemonde.fr" type="rss"></outline>
+        </outline>
+        <outline text="Economy">
+            <outline title="Les Échos - Entreprises" text="Les Échos - Entreprises" xmlUrl="https://services.lesechos.fr/rss/les-echos-entreprises.xml" htmlUrl="https://www.lesechos.fr/industrie-services" description="L&#39;actualité des entreprises : retrouvez les analyses et dossiers spéciaux des Echos sur l&#39;automobile, les transports, la distribution, l&#39;énergie, l&#39;environnement..." type="rss"></outline>
+            <outline title="Les Échos - Économie" text="Les Échos - Économie" xmlUrl="https://services.lesechos.fr/rss/les-echos-economie.xml" htmlUrl="https://www.lesechos.fr/economie-france" type="rss"></outline>
+            <outline title="The Economist - Business" text="The Economist - Business" xmlUrl="https://www.economist.com/business/rss.xml" htmlUrl="https://www.economist.com/business/" type="rss"></outline>
+        </outline>
+        <outline text="Energy">
+            <outline title="Renewable Energy World" text="Renewable Energy World" xmlUrl="https://www.renewableenergyworld.com/feed/" htmlUrl="https://www.renewableenergyworld.com/" type="rss"></outline>
+            <outline title="Actu-Environnement – Énergie" text="Actu-Environnement – Énergie" xmlUrl="https://www.actu-environnement.com/flux/rss/energie/" htmlUrl="https://www.actu-environnement.com/" type="rss"></outline>
+            <outline title="Atomic Insights" text="Atomic Insights" xmlUrl="http://feeds.feedburner.com/AtomicInsights/" htmlUrl="https://atomicinsights.com" type="rss"></outline>
+            <outline title="Carbon Brief" text="Carbon Brief" xmlUrl="https://www.carbonbrief.org/feed" htmlUrl="https://www.carbonbrief.org/" type="rss"></outline>
+            <outline title="EIA" text="EIA" xmlUrl="http://www.eia.gov/rss/todayinenergy.xml" htmlUrl="http://www.eia.gov/todayinenergy" type="rss"></outline>
+            <outline title="Energy Global" text="Energy Global" xmlUrl="https://www.energyglobal.com/rss/energyglobal.xml" htmlUrl="https://www.energyglobal.com" type="rss"></outline>
+            <outline title="Forbes.com: Energy News" text="Forbes.com: Energy News" xmlUrl="http://www.forbes.com/energy/index.xml" htmlUrl="http://www.forbes.com/energy/?feed=rss_business_energy" type="rss"></outline>
+            <outline title="Le Monde – Énergies renouvelables" text="Le Monde – Énergies renouvelables" xmlUrl="https://www.lemonde.fr/energies-renouvelables/rss_full.xml" htmlUrl="https://www.lemonde.fr/energies-renouvelables/" type="rss"></outline>
+            <outline title="LNG World News" text="LNG World News" xmlUrl="http://www.lngworldnews.com/feed/" htmlUrl="https://www.lngworldnews.com/" type="rss"></outline>
+            <outline title="NYT - Energy" text="NYT - Energy" xmlUrl="http://feeds.nytimes.com/nyt/rss/EnergyEnvironment" htmlUrl="https://www.nytimes.com/section/business/energy-environment" type="rss"></outline>
+            <outline title="OilPrice" text="OilPrice" xmlUrl="http://feeds.feedburner.com/oilpricecom" htmlUrl="https://oilprice.com/rss/main" type="rss"></outline>
+            <outline title="POWER Magazine" text="POWER Magazine" xmlUrl="https://www.powermag.com/feed/" htmlUrl="https://www.powermag.com/" type="rss"></outline>
+            <outline title="Rigzone" text="Rigzone" xmlUrl="http://www.rigzone.com/news/rss/rigzone_latest.aspx" htmlUrl="https://www.rigzone.com/news/" type="rss"></outline>
+            <outline title="TechCrunch » oil and gas Tag Feed" text="TechCrunch » oil and gas Tag Feed" xmlUrl="https://techcrunch.com/tag/oil-and-gas/feed/" htmlUrl="https://techcrunch.com/tag/oil-and-gas/" type="rss"></outline>
+            <outline title="The Fuse" text="The Fuse" xmlUrl="http://energyfuse.org/feed/" htmlUrl="https://thefuse.org/" type="rss"></outline>
+            <outline title="The Guardian – Energy" text="The Guardian – Energy" xmlUrl="https://www.theguardian.com/environment/energy/rss" htmlUrl="https://www.theguardian.com/environment/energy" type="rss"></outline>
+            <outline title="The Verge - Energies" text="The Verge - Energies" xmlUrl="https://www.theverge.com/rss/energy/index.xml" htmlUrl="https://www.theverge.com/energy" type="rss"></outline>
+            <outline title="Utility Dive – News" text="Utility Dive – News" xmlUrl="https://www.utilitydive.com/feeds/news/" htmlUrl="https://www.utilitydive.com/" type="rss"></outline>
+        </outline>
+        <outline text="Motorsport">
+            <outline title="F1Technical.net . Motorsport news" text="F1Technical.net . Motorsport news" xmlUrl="https://www.f1technical.net/rss/articles.xml" htmlUrl="https://www.f1technical.net/news/" type="rss"></outline>
+            <outline title="Motorsport.com - ENDURANCE - Informations" text="Motorsport.com - ENDURANCE - Informations" xmlUrl="http://fr.motorsport.com/rss/category/endurance/news" htmlUrl="https://fr.motorsport.com/category/endurance/news/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-ENDURANCE&amp;utm_term=News&amp;utm_content=fr" type="rss"></outline>
+            <outline title="Motorsport.com - Formule 1 - Informations" text="Motorsport.com - Formule 1 - Informations" xmlUrl="http://fr.motorsport.com/rss/f1/news/" htmlUrl="https://fr.motorsport.com/f1/news/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=fr" type="rss"></outline>
+            <outline title="Motorsport.com - MOTO - Informations" text="Motorsport.com - MOTO - Informations" xmlUrl="http://fr.motorsport.com/rss/category/moto/news" htmlUrl="https://fr.motorsport.com/category/moto/news/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-MOTO&amp;utm_term=News&amp;utm_content=fr" type="rss"></outline>
+            <outline title="RaceFans - Independent Motorsport Coverage" text="RaceFans - Independent Motorsport Coverage" xmlUrl="http://feeds.feedburner.com/f1fanatic" htmlUrl="https://www.racefans.net/" type="rss"></outline>
+        </outline>
+        <outline text="Sport">
+            <outline title="L&#39;Équipe – Actualités sportives" text="L&#39;Équipe – Actualités sportives" xmlUrl="https://dwh.lequipe.fr/api/edito/rss?path=/" htmlUrl="https://www.lequipe.fr/" type="rss"></outline>
+        </outline>
+    </body>
+</opml>
